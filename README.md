@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm szdf</h1>
 <h3 align="center">I just learned programming</h3>
@@ -25,5 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serpent67&show_icons=true&locale=en" alt="serpent67" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serpent67&" alt="serpent67" /></p>
-
+<!--
 -->
