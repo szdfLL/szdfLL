@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szdfLL&" alt="serpent67" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+I have![Visitor Count](https://profile-counter.glitch.me/szdfLL/count.svg)visitor!
 <!--
 -->
