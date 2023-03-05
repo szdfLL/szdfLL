@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serpent67&label=Profile%20views&color=0e75b6&style=flat" alt="serpent67" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Android,Game,Web Development**
+- 💬 Ask me about **C++,Game**
 
 - 📫 How to reach me **188970754@qq.com**
 
